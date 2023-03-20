@@ -1,0 +1,7 @@
+python==3.8.12
+dlib==19.22.1
+cmake==3.20.5
+flask==2.1.1
+sqlite3==3.36.0
+face-recognition==1.3.0
+opencv-python-headless==4.5.3.56
